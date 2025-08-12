@@ -1,1 +1,5 @@
-score = 0.95650
+Score: 0.97546
+
+Notes:
+- Create more models for ensembling: Xlearn, NN, ... ect
+- Need better Ensembling Model
